@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.loader {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.twitter-tweet.twitter-tweet-rendered {
+    width: 100%!important;
+    max-width: auto;
+    margin: 0!important;
+}
+
+.staggered-tiles {
+    column-count: 2;
+    column-gap: 1em;
+}
+
+.tile {
+    display: inline-block;
+    margin: 0 0;
+    width: 100%;
+}
+
+@media (max-width: 992px) {
+    .staggered-tiles {
+        column-count: 1;
+    }
+
+    
+}
+
+@media (min-width: 992px) {
+    .tw-border-right {
+        border-right: #C7CDD7 2px solid;
+        padding-right: 30px;
+    }
+
+    .tw-border-left {
+        border-left: #C7CDD7 2px solid;
+        padding-left: 30px;
+    }
+}
+
+
+body {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif!important;
+    background-color: #F8FBFF!important;
+    min-height: 100vh;
+}
+
+.list-group {
+    border-radius: 0px!important;
+}
+
+.list-group-item:focus {
+    outline: 0 none;
+
+}
+
+.list-group-item {
+    border: #6A8EAE 0px solid;
+    font-weight: bold;
+    color: #061A36;
+    border-radius: 0px!important;
+    box-shadow: #dddddd80 2px 2px 3px;
+    margin-bottom: 2px;
+}
+
+input, textarea, select, .hubspot-form, .alert {
+    border: #6A8EAE 0px solid!important;
+    background-color: white!important;
+    font-weight: bold!important;
+    color: #061A36!important;
+    border-radius: 0px!important;
+    box-shadow: #dddddd80 2px 2px 3px;
+}
+
+
+input:disabled, textarea:disabled {
+    background-color: #eeeeee!important;
+}
+
+.dropdown-divider {
+    border-top: #C7CDD7 2px solid;
+}
+
+.ql-tweet-wrapper {
+    max-width: 550px; 
+    margin-bottom: 1.5em;
+    position: relative; 
+    background: white; 
+    padding: 4px; 
+    box-shadow: #dddddd80 2px 2px;
+}
+
+.ql-tweet-wrapper.nomargin {
+    margin-bottom: 0;
+}
+
+
+       
+.ql-hide-tweet-outline {
+    position: absolute;
+    top: 3px;
+    bottom: 3px;
+    left: 3px;
+    right: 3px;
+    border: white 4px solid;
+    box-sizing: border-box;
+    border-radius: 14px;
+    pointer-events: none;
+    
+}
+
+.hs-form-iframe {
+    width: 100%!important;
+}
+
+
+input.dark-input {
+    border: 1px solid grey!important;
+    width: 60px;
+    margin-left: 4px;
+    margin-right: 4px;
+}

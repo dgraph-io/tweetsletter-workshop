@@ -1,0 +1,5 @@
+type Tweets {
+    id: String! @id
+    text: String! @search(by: [fulltext])
+    timestamp: DateTime! @search
+}

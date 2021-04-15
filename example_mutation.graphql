@@ -1,0 +1,136 @@
+mutation {
+	addTweet(input: [
+		{
+        id: "1283983031217164289",
+        text: "NEW VIDEO: This video is all about the basics of GraphQL and how to attack it. There&#39;s also a giveaway for three 3-month @PentesterLab subscriptions which is sponsored by @Bugcrowd 🤩!! Watch now to learn some GraphQL and participate in the giveaway! \n\nhttps://t.co/C3IbbRfCHT https://t.co/UWnvYVwjT7",
+        timestamp: "2020-07-17T04:33:04Z"
+      },
+      {
+        id: "1272881613324480513",
+        text: "While all these dbs are made for servers,\nRxDB is a realtime database made for JavaScript UI apps like websites, hybrid apps or electron.\nYou can subscribe to events, queries or a single field of a document. It also has replication over GraphQL and CouchDB\nhttps://t.co/UyZTdtX3z5",
+        timestamp: "2020-06-16T13:20:00Z"
+      },
+      {
+        id: "1284154991884873734",
+        text: "Announcing Amplify Guides 🚀\n\n29 end to end tutorials for everything from working with Amplify on the JAMstack, custom authentication, GraphQL, and more.\n\nReally excited about this new project. Also, we&#39;re just getting started. More guides coming soon! \n\nhttps://t.co/yJj5ZdjcFQ https://t.co/f8b0cHPDwU",
+        timestamp: "2020-07-17T15:56:23Z"
+      },
+      {
+        id: "1284104050968088578",
+        text: "6 GraphQL Authorization Schemas for AWS Amplify\n\nhttps://t.co/6dTqZdjcDj https://t.co/yVjANOiWlg",
+        timestamp: "2020-07-17T12:33:57Z"
+      },
+      {
+        id: "1284354315579203584",
+        text: "Microservices with GraphQL and Typescript Tutorial - https://t.co/b52MjKwNFo   #Developer #node #nodejs #coding #js #angularjs #vuejs #reactjs #100DaysOfCode #webdev #coder #tech #javascript #html #php #womenwhocode #301DaysOfCode",
+        timestamp: "2020-07-18T05:08:25Z"
+      },
+      {
+        id: "1283720009882251264",
+        text: "I get questions on what stack to use. Choose your stack.\n\nFront-end: React or Vue\nBack-end: NodeJS (JavaScript) or Django (Python) or Web.go (GoLang)\nDatabase: MongoDB or MySQL\nAPI: REST or GraphQl\nCloud: AWS or Azure\n\nThere are other technologies. These are just some examples.",
+        timestamp: "2020-07-16T11:07:55Z"
+      },
+      {
+        id: "1284339612677279744",
+        text: "Online Courses - Full-Stack Vue with GraphQL - The Ultimate Guide -&amp;gt; https://t.co/1AYGmB6qDV\n\n#100DaysOfCode #html5 #NodeJs #Angular #WordPress #react #css3 #javascript #vuejs #Python #PHP #MongoDB #redux #Django #bootstrap4 #udemy #Coupons #Free #Discounts https://t.co/TRSM4hIwEQ",
+        timestamp: "2020-07-18T04:10:00Z"
+      },
+      {
+        id: "1284333172407144448",
+        text: "Developer Bliss- Serverless Fullstack React  with Prisma 2 and GraphQL\n#morioh #javascript #reactjs #aws #serverless #webdevelopment #graphql \n https://t.co/zAyKW6Feg2",
+        timestamp: "2020-07-18T03:44:24Z"
+      },
+      {
+        id: "1284335669465067520",
+        text: "@benawad Hello nice to meet you! 😀\nI&#39;m WebDev with React, TypeScript, GraphQL(or just express rest api backend) tech stack.( almost similar to you\nSometime I&#39;m watching your Youtube video and I&#39;m enjoying at all!\nThank you for your activity!",
+        timestamp: "2020-07-18T03:54:20Z"
+      },
+      {
+        id: "1284336810148102144",
+        text: "Me and graphql are getting along just fine today but Gatsby and I are beefing.",
+        timestamp: "2020-07-18T03:58:52Z"
+      },
+      {
+        id: "1284332063030759425",
+        text: "Coupons Free Discount - GraphQL with React: The Complete Developers Guide Courses -&amp;gt; https://t.co/merRqNkxwa\n\n#udemy #webdevelopment #javascript #React #NodeJs #Django #PHP #CSS #bootstrap #Angular #vuejs #html #WordPress #Redux #Python #Vuex #100DaysOfCode",
+        timestamp: "2020-07-18T03:40:00Z"
+      },
+      {
+        id: "1284347082040414208",
+        text: "After 2 days of research on file uploading in GraphQL, Finally able to upload single and multiple files in GraphQL using @FirecampHQ  and @apollographql \n\n- JWT\n- NodeJS\n- Sequelize\n- PostgreSQL\n\n#100DaysOfCode #DEVCommunity https://t.co/jH73XCVP8h",
+        timestamp: "2020-07-18T04:39:41Z"
+      },
+      {
+        id: "1284342380200517632",
+        text: "Building a GraphQL app with https://t.co/iEhewZgk1G . As I&#39;m iterating, I&#39;m making major modifications to the schema, and it is SMOOTH!",
+        timestamp: "2020-07-18T04:21:00Z"
+      },
+      {
+        id: "1284323537780477953",
+        text: "spending my friday evening learning GraphQL . what is life ?",
+        timestamp: "2020-07-18T03:06:07Z"
+      },
+      {
+        id: "1284333367983366144",
+        text: "Developer Bliss- Serverless Fullstack React  with Prisma 2 and GraphQL\n#morioh #javascript #reactjs #aws #serverless #webdevelopment #graphql \n https://t.co/dtiSiANEzo",
+        timestamp: "2020-07-18T03:45:11Z"
+      },
+      {
+        id: "1284330773877792769",
+        text: "@notsofast @UniswapProtocol it’s very easy to get those numbers if you really want them! \n\nyou can prolly even just use the WYSIWYG graphql editor available on @graphprotocol’s explore page (click the uniswap subgraph)",
+        timestamp: "2020-07-18T03:34:52Z"
+      },
+      {
+        id: "1284363634571907072",
+        text: "#GraphQL - The level of information in this article is just perfect to the kind of me, a starter!  Thanks Samer! “REST APIs are REST-in-Peace APIs. Long Live GraphQL.” by @samerbuna\nhttps://t.co/A60UHKUe07",
+        timestamp: "2020-07-18T05:45:27Z"
+      },
+      {
+        id: "1284370838591098886",
+        text: "@Prathkum For some reason yes, I tried getting into gaming lately, was no fun at all, I plan on digging deeper into HTML, CSS, JavaScript and React. My goal is also later to learn SQL and GraphQL, then I wanna start building fullstack side projects that could eventually boost my resume 🥳",
+        timestamp: "2020-07-18T06:14:05Z"
+      },
+      {
+        id: "1284367565335203842",
+        text: "Just set up a GraphQL project in @elixirphoenix  with Absinthe and it was so painless and easy\n\nThis is my first time with Phoenix and Elixir and I&#39;m starting to love it 🔥",
+        timestamp: "2020-07-18T06:01:04Z"
+      },
+      {
+        id: "1283988397514788865",
+        text: "HACKING GraphQL FOR BEGINNERS https://t.co/LZJxx65fOg",
+        timestamp: "2020-07-17T04:54:23Z"
+      },
+      {
+        id: "1284384514396098561",
+        text: "An Introduction Tutorial To Apollo GraphQL Federation - https://t.co/xTiFG1pf0D   #Developer #node #nodejs #coding #js #angularjs #vuejs #reactjs #100DaysOfCode #webdev #coder #tech #javascript #html #php #womenwhocode #301DaysOfCode",
+        timestamp: "2020-07-18T07:08:25Z"
+      },
+      {
+        id: "1263588122748575749",
+        text: "BIG NEWS: GraphQL Summit will be a free online event this year! 🎉 It&#39;s happening July 30-31 and August 6-7.\n\nWe’re thrilled to welcome many #GraphQL community members across the globe that haven’t been able to attend in past years due to travel. 🌍\n\nhttps://t.co/35Ov9Vh4TH",
+        timestamp: "2020-05-21T21:50:59Z"
+      },
+      {
+        id: "1284248005969956868",
+        text: "🥘 Cooking a deliveroo clone with @vercel, @stripe, @GraphQL and @strapijs ! \n\nThis is the fifth part of the #tutorial that you will learn how to create a full-featured shopping cart! \n⬇              ⬇               ⬇\nhttps://t.co/WablUdlHJb",
+        timestamp: "2020-07-17T22:05:59Z"
+      },
+      {
+        id: "1284157744832892928",
+        text: "I am looking for my next gig in a #FullStack role. I have worked with #reactjs #ReactNative #Nodejs #GraphQL and ready to learn new tech as per requirement.    \n\nKindly RT to help me get my dream job.🙏🙏\n\nhttps://t.co/GMDhia1qTV",
+        timestamp: "2020-07-17T16:07:19Z"
+      },
+      {
+        id: "1284282581739958272",
+        text: "I really didn&#39;t expect angular.js to see in there 😀 But very nice that @graphql_java is included. https://t.co/cYY0wlLWhp",
+        timestamp: "2020-07-18T00:23:22Z"
+      },
+      {
+        id: "1281363019906383875",
+        text: "I&#39;ve been looking at GraphQL for security and non-security related work recently. Here are a couple quick bug bounty tips for security folk who aren&#39;t familiar with it.\n\nhttps://t.co/SkbICODfXT\nhttps://t.co/MVSx6aBxMg\n\n3/3 - #bugbounty #bugbountytips https://t.co/DhjACr9qT7",
+        timestamp: "2020-07-09T23:02:05Z"
+      }
+	]) {
+			numUids
+		}
+	}
