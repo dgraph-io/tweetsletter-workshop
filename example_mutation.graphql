@@ -1,5 +1,5 @@
 mutation {
-	addTweet(input: [
+	addTweets(input: [
 		{
         id: "1283983031217164289",
         text: "NEW VIDEO: This video is all about the basics of GraphQL and how to attack it. There&#39;s also a giveaway for three 3-month @PentesterLab subscriptions which is sponsored by @Bugcrowd 🤩!! Watch now to learn some GraphQL and participate in the giveaway! \n\nhttps://t.co/C3IbbRfCHT https://t.co/UWnvYVwjT7",
